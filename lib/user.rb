@@ -1,5 +1,5 @@
 class User 
-  attr_accessor :fname, :lname 
+  attr_accessor :first_name, :last_name 
   
   
   
